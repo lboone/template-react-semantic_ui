@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Template - React Material UI</h1>
+        <h1>Template - React Semantic UI</h1>
       </div>
     );
   }
